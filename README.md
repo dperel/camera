@@ -54,3 +54,6 @@ Each render pass, rendering to the context should be applied with
 
 
 Appropriate transformations will be applied to the context, and world coordinates can be used directly with all canvas context calls
+
+
+A change to the file
